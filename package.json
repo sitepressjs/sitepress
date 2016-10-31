@@ -1,0 +1,11 @@
+{
+  "name": "node-wordpress",
+  "version": "1.0.0",
+  "description": "Wordpress Complet Rewriten to NodeJS + Calypso Admin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
